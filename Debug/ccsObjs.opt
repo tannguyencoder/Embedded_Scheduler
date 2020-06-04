@@ -1,0 +1,1 @@
+"./lm4f120b2qr_startup_ccs.obj" "./main.obj" "./TASK/Task.obj" "./TASK/Task1.obj" "./TASK/Task2.obj" "./TASK/Task3.obj" "./Scheduler/scheduler.obj" "./SWITCH/SWITCH.obj" "./RGBState/RGBState.obj" "./LED/LED.obj" "C:/ti/TivaWare_C_Series-2.1.2.111/driverlib/ccs/Debug/driverlib.lib" "../lm4f120b2qr.cmd" -l"libc.a" 
